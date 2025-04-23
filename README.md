@@ -1,2 +1,4 @@
-# Number-guessing-Game-using-C-language
-it is a number guessing game developed by me in c language
+# My C language projects
+1.Number Guessing Game
+2.Digital Clock
+
